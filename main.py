@@ -293,7 +293,6 @@ while 1:
 
 
                 
-        @bot.message_handler(commands=['COMMAND_NOT(gghgfay3v3b7tbv3t3bh)'])
         def favorite_add(callback):
             global global_choice
             anime = callback.message.caption
