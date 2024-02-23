@@ -23,7 +23,7 @@ CREATE TABLE IF NOT EXISTS users
         self.connect.commit()
 
 
-id_user = 1641006916
+id_user = 'id'
 bot = telebot.TeleBot('токен')
 
 while 1:
