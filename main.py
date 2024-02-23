@@ -24,7 +24,7 @@ CREATE TABLE IF NOT EXISTS users
 
 
 id_user = 1641006916
-bot = telebot.TeleBot('6665858428:AAF-Xuten8QPucKviHccBIkipj_FDgR_uSI')
+bot = telebot.TeleBot('токен')
 
 while 1:
     try:
